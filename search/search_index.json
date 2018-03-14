@@ -1,0 +1,14 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Hey, I\u2019m Alex\n\n\nfor\n \ni\n \nin\n \nitems\n:\n\n    \nprint\n(\ni\n)",
+            "title": "Alex Truslow"
+        },
+        {
+            "location": "/#hey-im-alex",
+            "text": "for   i   in   items : \n     print ( i )",
+            "title": "Hey, I'm Alex"
+        }
+    ]
+}
