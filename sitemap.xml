@@ -1,12 +1,62 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-    
-    <url>
-     <loc>http://truslow.io//</loc>
-     <lastmod>2018-03-13</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
+<url>
+<loc>https://atruslow.github.io/</loc>
+<lastmod>2018-10-15T10:05:16-00:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://atruslow.github.io/archives.html</loc>
+<lastmod>2018-10-15T10:05:16-00:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://atruslow.github.io/tags.html</loc>
+<lastmod>2018-10-15T10:05:16-00:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://atruslow.github.io/categories.html</loc>
+<lastmod>2018-10-15T10:05:16-00:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://atruslow.github.io/2010/12/03/my-first-review/</loc>
+<lastmod>2010-12-03T10:20:00-05:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.99</priority>
+</url>
+
+<url>
+<loc>https://atruslow.github.io/category/tech</loc>
+<lastmod>2010-12-03T10:20:00-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://atruslow.github.io/tag/python/</loc>
+<lastmod>2010-12-03T10:20:00-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://atruslow.github.io/tag/testing/</loc>
+<lastmod>2010-12-03T10:20:00-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
 
 </urlset>

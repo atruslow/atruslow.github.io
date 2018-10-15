@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Alex Truslow' Blog - Tech</title><link href="https://atruslow.github.io/" rel="alternate"></link><link href="https://atruslow.github.io/feeds/tech.atom.xml" rel="self"></link><id>https://atruslow.github.io/</id><updated>2010-12-03T10:20:00-05:00</updated><entry><title>My First Review</title><link href="https://atruslow.github.io/2010/12/03/my-first-review/" rel="alternate"></link><published>2010-12-03T10:20:00-05:00</published><updated>2010-12-03T10:20:00-05:00</updated><author><name>Alex Truslow</name></author><id>tag:atruslow.github.io,2010-12-03:/2010/12/03/my-first-review/</id><summary type="html">&lt;p&gt;&lt;img alt="mt" src="/images/katahdin.jpeg"&gt;&lt;/p&gt;
+&lt;p&gt;Following is a review of my favorite mechanical keyboard.&lt;/p&gt;
+&lt;p&gt;Lets add some more content.&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;img alt="mt" src="/images/katahdin.jpeg"&gt;&lt;/p&gt;
+&lt;p&gt;Following is a review of my favorite mechanical keyboard.&lt;/p&gt;
+&lt;p&gt;Lets add some more content.&lt;/p&gt;</content><category term="Python"></category><category term="Testing"></category></entry></feed>
